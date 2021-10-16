@@ -9,7 +9,7 @@
     "precommit": "lint-staged"
   },
   "license": "MIT",
-  "repository": "vercel/hazel",
+  "repository": "mtechvault/hazel",
   "xo": {
     "extends": [
       "prettier"
